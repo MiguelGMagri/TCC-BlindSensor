@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## Sensor de Proximidade para Pessoas com Deficiência Visual
 
-Bem-vindo ao repositório do projeto "Sensor de Proximidade para Pessoas com Deficiência Visual". 
+Bem-vindo ao repositório do projeto "Sensor de Proximidade para Pessoas com Deficiência Visual", projetado para auxiliar pessoas com deficiência visual na navegação e orientação em ambientes diversos. 
 
 ## Projeto Físico
 
@@ -17,7 +17,9 @@ No protótipo inicial foi utilizado o Arduíno e os componentes eletronicos em u
 
 ## Explicando o Site Web
 
-- O site serve como uma plataforma informativa sobre o desenvolvimento e os benefícios do sensor de proximidade, projetado para auxiliar pessoas com deficiência visual na navegação e orientação em ambientes diversos.
+- O site serve como uma plataforma informativa sobre o desenvolvimento e os benefícios do sensor de proximidade.
+
+- <a href="https://github.com/MiguelGMagri/TCC-BlindSensor/tree/main/Telas%20Site%20TCC">Telas do Site</a>
 
 ### Funcionalidades do Site
 
