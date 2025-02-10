@@ -38,7 +38,7 @@ No protótipo inicial foi utilizado o Arduíno e os componentes eletronicos em u
 - *JavaScript:* Para interatividade e dinamicidade nas páginas.
 - *Arduino IDE:* Para programar o Arduino.
 
-### Estrutura do Projeto
+### Estrutura do Site
 
 - index.html: Página principal do site.
 - css/style.css: Arquivo de estilos CSS.
