@@ -45,7 +45,7 @@ No protótipo inicial foi utilizado o Arduíno e os componentes eletronicos em u
 - js/script.js: Arquivo de scripts JavaScript.
 - img/: Pasta contendo as imagens utilizadas no site.
 
-### Como Executar o Projeto
+### Como Executar o Site
 
 1. Clone o repositório:
     ```sh
