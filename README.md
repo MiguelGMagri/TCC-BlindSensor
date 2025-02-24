@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ## Sensor de Proximidade para Pessoas com Deficiência Visual
 
-Bem-vindo ao repositório do projeto "Sensor de Proximidade para Pessoas com Deficiência Visual", projetado para auxiliar pessoas com deficiência visual na navegação e orientação em ambientes diversos. 
+Bem-vindo ao repositório do projeto "BlindSensor", criado para auxiliar pessoas com deficiência visual na navegação e orientação em ambientes diversos. 
 
 ## Projeto Físico
 
